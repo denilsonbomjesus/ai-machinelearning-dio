@@ -1,4 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-processamento de imagens/** linguist-vendored
-transfer learning/** linguist-vendored
+notebooks/** linguist-vendored
